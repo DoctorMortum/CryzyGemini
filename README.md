@@ -1,2 +1,2 @@
 # CryzyGemini
-Custom prompt + prefill package for Gemini on JanitorAI.
+Custom NSFW prompt + prefill package for Gemini on JanitorAI.
