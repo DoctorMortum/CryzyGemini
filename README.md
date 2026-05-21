@@ -26,7 +26,7 @@ Copy and Paste the [prefill](https://raw.githubusercontent.com/DoctorMortum/Cryz
 
 ---
 
-## > INSTRUCTIONS // IDIOT-PROOF GUIDE
+## > INSTRUCTIONS
 
 ### Step 1 — Open API Settings
 
@@ -63,5 +63,5 @@ Hit save, open any chat, and send a message. That's it! You're done.
 ---
 
 ***
-> [Github](https://github.com/DoctorMortum/CryzyGemini)
+> [Rentry](https://rentry.org/cryzygemini)
 ***
