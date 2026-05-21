@@ -1,8 +1,9 @@
 # CRYZY'S GEMINI PROMPT
 
 ***
-!!! warning **CONTAINS NSFW CONTENT**
-    Custom prompt + prefill package for Gemini on JanitorAI.
+## WARNING
+    Custom NSFW prompt + prefill package for Gemini on JanitorAI.
+    Contains NSFW content (obviously).
 ***
 
 ## > ABOUT THIS PROMPT
