@@ -1,4 +1,4 @@
-# CRYZY'S GEMINI PROMPT
+# No Limits Gemini
 
 ***
 ## WARNING
