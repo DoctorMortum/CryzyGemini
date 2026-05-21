@@ -16,13 +16,13 @@ Drop it in once, forget about it.
 
 ## > THE PROMPT
 
-Copy and Paste the [prompt](https://raw.githubusercontent.com/DoctorMortum/CryzyGemini/refs/heads/main/Prompt.md) into your **Global Prompt** field in JanitorAI.
+Copy and Paste the [prompt](https://raw.githubusercontent.com/DoctorMortum/NLG/refs/heads/main/Prompt.md) into your **Global Prompt** field in JanitorAI.
 
 ---
 
 ## > THE PREFILL
 
-Copy and Paste the [prefill](https://raw.githubusercontent.com/DoctorMortum/CryzyGemini/refs/heads/main/Prefill.md) into the **Prefill Text** field (Prefill must be enabled).
+Copy and Paste the [prefill](https://raw.githubusercontent.com/DoctorMortum/NLG/refs/heads/main/Prefill.md) into the **Prefill Text** field (Prefill must be enabled).
 
 ---
 
@@ -32,26 +32,26 @@ Copy and Paste the [prefill](https://raw.githubusercontent.com/DoctorMortum/Cryz
 
 Click the **API Settings** tab in the hamburger menu.
 
-![Step 1](https://raw.githubusercontent.com/DoctorMortum/CryzyGemini/refs/heads/main/img/api%20settings.png)
+![Step 1](https://raw.githubusercontent.com/DoctorMortum/NLG/refs/heads/main/img/api%20settings.png)
 
 ### Step 2 — Paste the Global Prompt
 
 Go to **API Settings → Proxy**. Copy the `Prompt` from the link above and paste it into the **Global Prompt** field.
 
-![Step 2](https://raw.githubusercontent.com/DoctorMortum/CryzyGemini/refs/heads/main/img/global%20prompt.png)
+![Step 2](https://raw.githubusercontent.com/DoctorMortum/NLG/refs/heads/main/img/global%20prompt.png)
 
 ### Step 3 — Enable and Paste Prefill
 
 In the same **Proxy** tab, find **Prefill** and toggle **Enable Prefill** ON.
 Copy the `Prefill` from the link above and paste it into the **Prefill Text** field.
 
-![Step 3](https://raw.githubusercontent.com/DoctorMortum/CryzyGemini/refs/heads/main/img/prefill.png)
+![Step 3](https://raw.githubusercontent.com/DoctorMortum/NLG/refs/heads/main/img/prefill.png)
 
 ### Step 4 — Save & Test
 
 Hit save, open any chat, and send a message. That's it! You're done.
 
-![Step 4](https://raw.githubusercontent.com/DoctorMortum/CryzyGemini/refs/heads/main/img/save.png)
+![Step 4](https://raw.githubusercontent.com/DoctorMortum/NLG/refs/heads/main/img/save.png)
 
 ---
 
@@ -63,5 +63,5 @@ Hit save, open any chat, and send a message. That's it! You're done.
 ---
 
 ***
-> [Rentry](https://rentry.org/cryzygemini)
+> [Rentry](https://rentry.org/nolimitsgemini)
 ***
